@@ -1,0 +1,7 @@
+- Commenter tout le main + réorganisation pour que ça soit plus visuel
+- Ajouter les images des boutons crée par Yoann
+- Régler le volume de la musique de fond
+- Ajout du background pour le menu
+- Séparer les classes en fichier
+- Trier et supprimer les fichiers qui ne servent à rien dans le dossier assets
+- ...
